@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Lorem Ipsum | Adi Utama
+title: Lorem Ipsum
 ---
-
-# Lorem Ipsum
 
 Sed sed diam sed purus lacinia euismod imperdiet a velit. Proin vel dolor vitae diam sodales vehicula eu consectetur dui. Suspendisse cursus, turpis sit amet porttitor condimentum, leo erat finibus lorem, in ultrices nibh eros id nibh. Morbi sit amet nunc accumsan nisl aliquam pulvinar eu sed lorem. Nullam in odio eros. Quisque tempor vulputate neque sed suscipit. Curabitur id commodo erat, at imperdiet nisl. Suspendisse elementum accumsan tortor eu aliquam. Suspendisse ut lacinia odio, id aliquam ex. Nulla sit amet ultricies neque, sit amet tristique eros. Donec purus lacus, rutrum id turpis id, porttitor placerat ligula. Praesent cursus sapien nunc, sit amet fringilla justo rutrum sed. Vivamus quis urna eu nibh egestas porta mollis eget tortor. Duis eget condimentum erat.
 
