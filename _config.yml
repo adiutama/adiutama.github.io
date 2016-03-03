@@ -1,2 +1,8 @@
-name: Adi Utama
+# Site settings
+title: Ion
+email: neogatotkaca@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    Sebagian dari isi kepalaku
+
+# Build settings
 markdown: kramdown
