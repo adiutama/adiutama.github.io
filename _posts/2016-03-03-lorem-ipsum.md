@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lorem Ipsum | Adi Utama
-----
+---
 
 # Lorem Ipsum
 
