@@ -4,7 +4,7 @@ title: Ini Mengapa Aku Enggan Curhat
 ---
 Orang bilang kalau lagi sedih cara mengobati yang paling ampuh adalah curhat. Katanya ketika aku curhat dengan seseorang beban yang selama ini serasa berat dipikul sendiri terasa ringan. Katanya ketika curhat kita dapat lebih dekat dengan orang yang kita curhati dan bila itu teman maka akan jadi sahabat atau bahkan mungkin kalau lawan jenis bakal jatuh cinta. Aku mengakui kalau hal tersebut benar namun tidak selalu seperti itu karena dari pengalamanku ada saja hal menarik terjadi yang membuatku enggan untuk terlalu membuka diri dengan sembarang orang.
 
-### 1. Rahasiamu Disebarluaskan
+### Rahasiamu Disebarluaskan
 
 Setiap orang pasti memiliki satu sisi yang enggan dia tampakkan pada orang lain. Kadang kita menutupinya dengan sangat baik sehingga orang tidak akan pernah menyangka. Kita semua pasti pernah punya teman yang sehari-hari telihat riang tapi ternyata punya banyak masalah yang dia simpan sendiri. Ada juga teman yang diam dan suka menyendiri tapi ternyata setelah kenal cukup lama ternyata dia orangnya asik diajak ngobrol. Rahasia itu kita simpan di tempat yang sangat aman karena kita takut dan malu terhadap reaksi orang ketika mengetahui sifat asli atau masa lalu kita.
 
@@ -15,7 +15,7 @@ orang yang aku kenal tahu soal cerita itu dan itu membuatku sangat marah.
 
 Benar memang kalau aku juga salah karena bercerita pada orang yang salah. Tapi mana aku tahu waktu itu? Padahal aku sudah memintanya untuk diam dan tidak bercerita pada orang lain. Terlepas dari hal itu pengalamanku itu menjadi salah satu alasan enggan untuk curhat karena tidak semua orang itu amanah.
 
-### 2. Memperburuk Pikiran
+### Memperburuk Pikiran
 
 Aku diawal menyatakan ketika curhat dengan seseorang beban kehidupan yang kita pikul selama ini terasa ringan tapi tidak selalu demikian. Menceritakan hal buruk yang terjadi pada diri kita terkadang akan membuat kita melihat kejadian tersebut jadi lebih buruk. Bila kita curhat tentang pasangan kita maka kita akan melihat pasangan kita itu terkesan buruk karena yang kita lakukan adalah mendata semua keburukan yang terjadi dari terakhir curhat hingga curhat berikutnya. Tak jarang aku dengar kalau ada pasangan yang bertengkar setelah salah satu dari mereka curhat ke temannya. Lalu nanti pertengkaran itu nanti bakal jadi bahan curhat berikutnya terus bertengkar lagi dan diulangi terus menerus sehingga akhirnya kedua belah pihak saling membenci satu sama lain.
 
@@ -23,7 +23,7 @@ Hal diatas bukan terjadi karena si teman ini berniat buruk namun karena kita sel
 
 Jadi berhati-hatilah kalau curhat karena siapa tahu setelah itu orang yang kita curhati akan berubah pikirannya terhadap orang yang kita curhatkan.
 
-### 3. Tidak Ada yang Perduli
+### Tidak Ada yang Perduli
 
 Mungkin ada dalam hati berkata: "Kasihan deh curhat nggak ada yang dengerin". Tapi tunggu dulu bukan itu yang aku maksudkan tapi memang tidak ada orang yang peduli dengan masalah kita karena semua orang sibuk dengan masalahnya sendiri. Sering terjadi ketika aku sedang ingin curhat orang yang mendengarkan itu malah balik curhat tentang dirinya sendiri. Setelah orang itu selesai dengan ceritanya dan merasa puas telah mengungkapkan perasaannya maka sesi curhat selesai. Pernah juga terjadi dalam sebuah kelompok aku menanyakan satu hal yang pribadi ke masing-masing orang agar mereka bercerita dan walaupun beberapa kali aku memberikan sinyal agar mereka kembali bertanya ke aku, semuanya tetap melanjutkan ceritanya masing-masing. Namun dari situ aku pandai mendengarkan cerita orang dan pandai menguak kehidupan pribadi orang tersebut namun tetap menyimpan cerita tentang diriku buat aku sendiri.
 
