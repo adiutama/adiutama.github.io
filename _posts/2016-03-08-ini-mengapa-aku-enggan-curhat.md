@@ -2,7 +2,7 @@
 layout: post
 title: Ini Mengapa Aku Enggan Curhat
 ---
-![I'm alone][header]
+![I'm alone]({{ site.baseurl }}/images/2016-03-08-alone.jpg)
 
 Orang bilang kalau lagi sedih cara mengobati yang paling ampuh adalah curhat. Katanya ketika aku curhat dengan seseorang beban
 yang selama ini serasa berat dipikul sendiri terasa ringan. Katanya ketika curhat kita dapat lebih dekat dengan orang yang
@@ -62,5 +62,3 @@ Curhat tetap menjadi hal yang baik namun dari pengalamanku tidak semua orang pan
 lebih baik tidak terlalu dekat dengan kita agar terhindar dari drama. Tapi jangan percaya sepenuhnya dengan apa yang aku katakan karena itu
 berasal dari pengalamanku saja. Buktikan kalau kalau pendapatku ini salah dengan mengalaminya. Baiklah, aku harus akhiri tulisan ini disini.
 Sampai jumpa di tulisan berikutnya.
-
-[header]: {{ site.baseurl }}/images/2016-03-08-alone.jpg
