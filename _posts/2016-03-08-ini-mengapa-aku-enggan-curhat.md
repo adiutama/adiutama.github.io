@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Ini Mengapa Aku Enggan Curhat
 ---
 ![I'm alone](header)
