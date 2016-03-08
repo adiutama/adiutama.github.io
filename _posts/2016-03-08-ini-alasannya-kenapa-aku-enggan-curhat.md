@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ini Mengapa Aku Enggan Curhat
+title: Ini Alasannya Kenapa Aku Enggan Curhat
 ---
 ![Alone]({{ site.baseurl  }}/images/2016-03-08-alone.jpg)
 
