@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # Build settings
 markdown: kramdown
+excerpt_separator: <!--more-->
 
 # Plugins
 gems:

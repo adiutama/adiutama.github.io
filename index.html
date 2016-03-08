@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage
+title: Adi Utama | Homepage
 ---
 
 <section id="one" >
@@ -31,8 +31,7 @@ title: Homepage
                 <header>
                     <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
                 </header>
-                
-                    {{ post.content | truncatewords: 30 }}
+                    {{ post.excerpt }}
                 </section>
                 <footer>
                     <ul class="actions">
