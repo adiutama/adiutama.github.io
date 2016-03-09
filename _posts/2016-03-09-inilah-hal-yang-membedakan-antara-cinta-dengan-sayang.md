@@ -2,7 +2,7 @@
 layout: post
 title: Inilah Hal Yang Membedakan Antara Cinta Dengan Sayang
 ---
-![Love Letter]({{ site.baseurl }}/images/2016-03-10-love-letter.jpg)
+![Love Letter]({{ site.baseurl }}/images/2016-03-09-love-letter.jpg)
 
 Oh, cinta. Sebuah perasaan yang mampu membawaku seakan terbang melayang tanpa
 sebab yang aku mengerti. Aku ingat bagaimana diriku ketika jatuh cinta dan
