@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Inilah Hal Yang Membedakan Antara Cinta Dengan Sayang
+
+keyword: perbedaan cinta sayang, cinta, sayang
+description: >
+    Saat ini pengertian cinta dan sayang mulai membingungkan dan menjadikan
+    segala seuatunya rumit.
 ---
 ![Love Letter]({{ site.baseurl }}/images/2016-03-09-love-letter.jpg)
 
