@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Aku Akan Berhenti Mengobrol Menggunakan Tulisan
+
+description: >
+    Meskipun memudahkan tetapi chatting membawa dampak buruk yang tidak terduga
+    bagiku dan menurutku saatnya untuk menyudahinya.
 ---
-![Chat Button]({{ site.base_url }}/images/2016-04-04-chat-button.jpg)
+![Chat Button]({{ site.baseurl }}/images/2016-04-04-chat-button.jpg)
 
 Chatingan adalah istilah yang sering kita gunakan untuk melakukan obrolan
 menggunakan tulisan. Semua ini berkat adanya internet dan teknologi ponsel yang
