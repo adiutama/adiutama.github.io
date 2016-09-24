@@ -2,6 +2,10 @@
 layout: post
 
 title: Tips Menghadapi Sales Dalam Kondisi Apapun
+description: >
+    Terkadang menghadapi sales memang menyebalkan tapi tidak harus seperti itu.
+    Sales juga manusia dan apa yang dilakukannya hanya tuntutan pekerjaan. Ada
+    beberapa hal yang bisa kita lakukan agar kamu lebih nyaman menghadapi sales.
 ---
 
 ![Salesman]({{ site.baseurl }}/images/2016-09-18-salesman.jpg)
