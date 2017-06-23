@@ -1,3 +1,9 @@
+---
+---
+
+@import 'vars';
+@import 'mixins';
+
 /*
 	Read Only by HTML5 UP
 	html5up.net | @n33co
@@ -12,13 +18,16 @@
 
 /* Image */
 
-	.image.left, .image.right {
-		max-width: 40%;
-	}
+	.image {
+		&.left,
+		&.right {
+			max-width: 40%;
 
-		.image.left img, .image.right img {
-			width: 100%;
+			img {
+				width: 100%;
+			}
 		}
+	}
 
 /* Header */
 
@@ -34,9 +43,8 @@
 		right: auto;
 		top: auto;
 		width: 100%;
-	}
 
-		#header > footer {
+		> footer {
 			bottom: auto;
 			left: auto;
 			margin: 1em 0 0 0;
@@ -44,6 +52,7 @@
 			right: auto;
 			top: auto;
 		}
+	}
 
 /* Wrapper */
 
@@ -53,8 +62,10 @@
 
 /* One */
 
-	#one:before {
-		height: 10em;
+	#one {
+		&:before {
+			height: 10em;
+		}
 	}
 
 /* Layers */
@@ -63,40 +74,41 @@
 		background: #222;
 		color: #fff;
 		min-width: 320px;
-	}
 
-		#titleBar .title {
+		.title {
 			color: #fff;
 			display: block;
-			font-weight: 700;
+			font-weight: $font-weight-bold;
 			height: 44px;
 			line-height: 44px;
 			padding: 0 1em;
 			width: 100%;
-			text-align: left;
+
+			@if $side-header == 'right' {
+				text-align: left;
+			}
+			@else {
+				text-align: right;
+			}
 		}
 
-		#titleBar .toggle {
-			text-decoration: none;
+		.toggle {
+			@include icon;
 			height: 4em;
 			position: absolute;
 			top: 0;
 			width: 6em;
-			right: 0;
-		}
 
-			#titleBar .toggle:before {
-				-moz-osx-font-smoothing: grayscale;
-				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
-				font-style: normal;
-				font-weight: normal;
-				text-transform: none !important;
+			@if $side-header == 'right' {
+				right: 0;
+			}
+			@else {
+				left: 0;
 			}
 
-			#titleBar .toggle:before {
-				background: #4acaa8;
-				color: #ffffff;
+			&:before {
+				background: $color-accent-bg;
+				color: $color-accent-fg-bold;
 				content: '\f0c9';
 				display: block;
 				font-size: 18px;
@@ -106,10 +118,18 @@
 				text-align: center;
 				top: 0;
 				width: 64px;
-				right: 0;
+
+				@if $side-header == 'right' {
+					right: 0;
+				}
+				@else {
+					left: 0;
+				}
 			}
+		}
+	}
 
 	#sidePanel {
-		background: #4acaa8;
-		color: #d1f1e9;
+		background: $color-header-bg;
+		color: $color-header-fg;
 	}
