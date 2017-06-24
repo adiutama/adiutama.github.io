@@ -1,0 +1,53 @@
+---
+layout: base
+---
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="content col-sm-12">
+      {{ content }}
+    </div>
+
+    <div class="sidebar col-sm-12">
+      <header>
+        <span class="image avatar">
+          <img src="{{ site.baseurl }}/images/avatar.jpg" alt="" />
+        </span>
+        <h1 id="logo"><a href="{{ site.baseurl }}/">{{ site.title  }}</a></h1>
+        <p>{{ site.description  }}</p>
+      </header>
+
+      <nav id="nav">
+        <ul>
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          <li><a href="{{ site.baseurl }}/about-me">About Me</a></li>
+        </ul>
+      </nav>
+
+      <footer>
+        <ul class="icons">
+          <li><a href="https://www.facebook.com/adiutamaa" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+          <li><a href="https://www.instagram.com/adiutama/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href="mailto:neogatotkaca@gmail.com" class="icon fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+      </footer>
+    </div>
+  </div>
+
+  <div class="row">
+    <section id="footer" class="col-sm-12">
+      <div class="container">
+        <ul class="copyright">
+          <li>&copy; Adi Utama. All rights reserved.</li>
+          <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+          <li>Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>
+        </ul>
+      </div>
+    </section>
+  </div>
+
+  <!-- Footer -->
+
+  <!-- Scripts -->
+  <script async src="{{ site.baseurl }}/js/main.js"></script>
+</div>
